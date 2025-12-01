@@ -2,7 +2,7 @@ This is the code release accompanying the paper [$C^3P$:Confusion-Guided Conform
 
 Citation: 
 ```
-@article{wei2026c2p,
+@article{wei2026c3p,
   title={$C^3P$:Confusion-Guided Conformal Predictionwith Class Clustering for Compact Sets},
   author={Boyao Wei, Zihao Wu, Yinglong Wang},
   journal={},
