@@ -1,4 +1,4 @@
-This is the code release accompanying the paper [$C^3P$:Confusion-Guided Conformal Predictionwith Class Clustering for Compact Sets]()
+This is the code release accompanying the paper $C^3P$:Confusion-Guided Conformal Predictionwith Class Clustering for Compact Sets
 
 Citation: 
 ```
